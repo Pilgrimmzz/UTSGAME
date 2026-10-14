@@ -111,7 +111,7 @@ Fitur yang belum diimplementasikan tidak dianggap sebagai fitur aktif. Status ak
 
 ## 📄 Dokumentasi
 
-- [Software Requirements Specification (SRS.md)](SRS.md) — kebutuhan fungsional, nonfungsional, kontrol, dan skenario pengujian prototype.
+- https://github.com/Pilgrimmzz/UTSGAME/blob/main/srs.md — kebutuhan fungsional, nonfungsional, kontrol, dan skenario pengujian prototype.
 
 ## 👥 Informasi Project
 
