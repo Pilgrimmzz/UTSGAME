@@ -1,5 +1,5 @@
 
-## 📖 Tentang Game
+## Tentang Game
 
 **CLEANSE** adalah prototype game **2D side-scrolling action shooter** bertema *Climate Action*. Pemain berperan sebagai anggota **Cleanse Division**, unit khusus yang bertugas menghadapi organisme berbahaya yang terbentuk akibat pencemaran lingkungan.
 
@@ -7,7 +7,7 @@ Dalam dunia masa depan yang tercemar oleh limbah industri, polusi udara, dan ker
 
 Game ini mengadaptasi mekanik permainan *run-and-gun* 2D dengan identitas cerita, musuh, dan tema lingkungan milik CLEANSE sendiri.
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 - **2D Side-Scrolling Action Shooter** — gameplay aksi dari perspektif samping dengan pergerakan kiri, kanan, dan lompatan.
 - **Player Movement** — pemain dapat bergerak, melompat, dan berhadapan dengan musuh.
@@ -22,7 +22,7 @@ Game ini mengadaptasi mekanik permainan *run-and-gun* 2D dengan identitas cerita
 
 > **Catatan status:** Daftar di atas merupakan cakupan fitur yang direncanakan untuk CLEANSE. Fitur dianggap selesai setelah diimplementasikan dan diuji di dalam project Unity.
 
-## 🎮 Kontrol Permainan
+## Kontrol Permainan
 
 | **Aksi** | **Tombol** |
 | --- | --- |
@@ -35,7 +35,7 @@ Game ini mengadaptasi mekanik permainan *run-and-gun* 2D dengan identitas cerita
 
 **Catatan:** Tombol **Space tidak digunakan**. Kontrol di atas merupakan rancangan kontrol prototype dan dapat disesuaikan saat implementasi.
 
-## 🚀 Cara Menjalankan Project
+## Cara Menjalankan Project
 
 ### Persyaratan
 
@@ -58,7 +58,7 @@ Game ini mengadaptasi mekanik permainan *run-and-gun* 2D dengan identitas cerita
 
 > **Penting:** Nama scene, lokasi scene, versi Unity, dan konfigurasi Build Settings harus diperbarui sesuai kondisi project yang sebenarnya. Informasi tersebut belum ditetapkan dalam dokumentasi awal ini.
 
-## 🎯 Gambaran Alur Permainan
+## Gambaran Alur Permainan
 
 1. Pemain memasuki area yang terdampak pencemaran.
 2. Pemain bergerak melewati platform dan rintangan.
@@ -70,7 +70,7 @@ Game ini mengadaptasi mekanik permainan *run-and-gun* 2D dengan identitas cerita
 
 Alur ini merupakan rancangan gameplay dan akan disesuaikan dengan fitur yang telah diimplementasikan.
 
-## 👾 Rancangan Musuh
+## Rancangan Musuh
 
 | **Musuh** | **Karakteristik** |
 | --- | --- |
@@ -80,7 +80,7 @@ Alur ini merupakan rancangan gameplay dan akan disesuaikan dengan fitur yang tel
 | **Spreader** | Menyebarkan polusi dan dapat menghasilkan unit kecil sebagai bantuan. |
 | **Germ Core** | Boss utama yang menggabungkan pola serangan dari ancaman sebelumnya. |
 
-## 🗺️ Rancangan Progres Misi
+## Rancangan Progres Misi
 
 1. **Prologue** — pengenalan dunia dan tugas Cleanse Division.
 2. **Level 1: Infected City** — menghadapi pencemaran di kawasan kota.
@@ -91,39 +91,6 @@ Alur ini merupakan rancangan gameplay dan akan disesuaikan dengan fitur yang tel
 
 Daftar ini adalah rencana progres permainan; jumlah level dan urutannya dapat berubah selama pengembangan.
 
-## 📁 Struktur Project
-
-Contoh struktur folder yang disarankan:
-
-```text
-CLEANSE/
-├── Assets/
-│   ├── Animations/
-│   ├── Audio/
-│   ├── Backgrounds/
-│   ├── Materials/
-│   ├── Prefabs/
-│   │   ├── Player/
-│   │   ├── Enemies/
-│   │   ├── Projectiles/
-│   │   └── Environment/
-│   ├── Scenes/
-│   ├── Scripts/
-│   │   ├── Player/
-│   │   ├── Combat/
-│   │   ├── Enemies/
-│   │   ├── Environment/
-│   │   ├── UI/
-│   │   └── Managers/
-│   ├── Sprites/
-│   └── UI/
-├── Packages/
-├── ProjectSettings/
-├── README.md
-└── SRS.md
-```
-
-*Struktur di atas merupakan rekomendasi awal, bukan hasil pemeriksaan folder project yang sudah ada. Sesuaikan dengan struktur aktual project.*
 
 ## 🛠️ Teknologi yang Digunakan
 
