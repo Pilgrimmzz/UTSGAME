@@ -1,6 +1,3 @@
-from pathlib import Path
-
-readme = r'''# CLEANSE — Defend. Cleanse. Protect.
 
 ## 📖 Tentang Game
 
@@ -160,8 +157,4 @@ Fitur yang belum diimplementasikan tidak dianggap sebagai fitur aktif. Status ak
 **Mode Permainan:** Single-player  
 **Engine:** Unity 2D
 
----
-
-*Dikembangkan sebagai project game untuk keperluan akademik.*
-'''
 
